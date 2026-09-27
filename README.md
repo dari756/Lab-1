@@ -10,10 +10,12 @@
 
 ## Структура проекта
 
-* `notebooks/01\_data\_understanding.ipynb` — основной Jupyter Notebook с анализом
-* `report/quality\_report.md` — текстовый отчёт с выводами
-* `data/` — датасет
-
+- `notebooks/01_data_understanding.ipynb` — основной Jupyter Notebook с анализом
+- `notebooks/02_lab1_continuation.ipynb` — продолжение лабораторной работы
+- `report/quality_report.md` — текстовый отчёт с выводами
+- `report/quality_report_continuation.md` — отчёт по продолжению лабораторной работы
+- `data/` — датасет
+  
 ## Инструкции по запуску
 
 1. Установите зависимости:
